@@ -11,6 +11,7 @@ clear:both;
 height:50px;
 }
 h1.branding {
+clear: both;
 font-size: 130px;
 font-weight:bold;
 }
