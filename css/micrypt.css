@@ -377,12 +377,12 @@ border: 0;
 
 @media only screen and (max-width: 767px) {
   h1.branding { font-size: 120px; }
-  body.post h1.branding { font-size: 80px; }
+  body.post h1.branding { font-size: 80px; width: 97%; }
 }
 
 @media only screen and (max-width: 480px) {
   h1.branding { font-size: 70px; }
-  body.post h1.branding { font-size: 50px; }
+  body.post h1.branding { font-size: 50px; width: 97%; }
 }
 /* 
  * print styles
