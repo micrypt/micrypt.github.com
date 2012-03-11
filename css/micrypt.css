@@ -382,6 +382,10 @@ border: 0;
   body.post h1.branding { font-size: 80px; }
 }
 
+@media only screen and (max-width: 510px) {
+  div#content ol li { min-height: 110px; }
+}
+
 @media only screen and (max-width: 480px) {
   h1.branding { font-size: 70px; }
   body.post h1.branding { font-size: 50px; }
@@ -391,18 +395,10 @@ border: 0;
     padding-right: 5px;
     width: 23px;
   }
-  .date {
-    width: 17%;
-  }
-  div#content ol li {
-    min-height: 120px;
-  }
-  li span.summary {
-    width: 51%;
-  }
-  div#footer-main {
-    height: auto;
-  }
+  .date { width: 17%; }
+  div#content ol li { min-height: 120px; }
+  li span.summary { width: 51%; }
+  div#footer-main { height: auto; }
 }
 /* 
  * print styles
