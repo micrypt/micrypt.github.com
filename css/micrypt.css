@@ -94,7 +94,7 @@ width:34px;
 }
 .date small {
 display:block;
-float:right;
+float:left;
 font-size:12px;
 padding-left:5px;
 }
