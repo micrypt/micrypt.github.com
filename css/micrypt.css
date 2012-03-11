@@ -372,14 +372,17 @@ border: 0;
   li span.title  { width: 29%; }
   li span.summary  { width: 55%; }
   .date { width: 14%; }
+  div.default, div.post { width: 97%; }
 }
 
 @media only screen and (max-width: 767px) {
   h1.branding { font-size: 120px; }
+  body.post h1.branding { font-size: 80px; }
 }
 
 @media only screen and (max-width: 480px) {
   h1.branding { font-size: 70px; }
+  body.post h1.branding { font-size: 50px; }
 }
 /* 
  * print styles
