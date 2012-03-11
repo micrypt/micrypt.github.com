@@ -259,8 +259,9 @@ button {  width: auto; overflow: visible; }
 @media only screen and (max-width: 480px) {
  #footer div div, div#content { width: 95%; }
   h1.branding { font-size: 70px; }
-  li span.title  { width: 34%; }
-  li span.summary  { width: 66%; }
+  li span.title  { width: 29%; }
+  li span.summary  { width: 51%; }
+  .date { width: 8%; }
   
   /* Uncomment if you don't want iOS and WinMobile to mobile-optimize the text for you
      j.mp/textsizeadjust 
