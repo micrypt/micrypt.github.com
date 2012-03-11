@@ -401,6 +401,9 @@ border: 0;
   li span.summary {
     width: 51%;
   }
+  div#footer-main {
+    height: auto;
+  }
 }
 /* 
  * print styles
