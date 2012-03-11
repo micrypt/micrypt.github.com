@@ -255,7 +255,7 @@ button {  width: auto; overflow: visible; }
 
 /* Grade-A Mobile Browsers (Opera Mobile, iPhone Safari, Android Chrome)  
    Consider this: www.cloudfour.com/css-media-query-for-mobile-is-fools-gold/ */
-@media only screen and (max-width: 767px) and (max-width: 480px) {
+@media only screen and (max-width: 767px), only screen and (max-width: 480px) {
   div#footer div div { width: 95%; }
   div#content { width: 95%; }
   h1.branding { font-size: 70px; }
