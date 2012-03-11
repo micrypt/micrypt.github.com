@@ -374,6 +374,8 @@ border: 0;
   .date { width: 14%; }
   div.default, div.post { width: 97%; }
   body.post .summary, body.post h1.branding { width: 97%; }
+  div.post img { width: 97%; }
+  div.post img.alpha { width: initial; }
 }
 
 @media only screen and (max-width: 767px) {
