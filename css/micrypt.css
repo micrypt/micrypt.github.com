@@ -368,12 +368,17 @@ border: 0;
 @media only screen and (max-width: 767px), only screen and (max-width: 480px) {
   div#footer div div { width: 95%; }
   div#content { width: 95%; }
-  h1.branding { font-size: 70px; }
   li span.title  { width: 29%; }
-  li span.summary  { width: 56%; }
-  .date { width: 15%; }
+  li span.summary  { width: 55%; }
+  .date { width: 14%; }
 }
 
+@media only screen and (max-width: 767px) {
+  h1.branding { font-size: 120px; }
+}
+@media only screen and (max-width: 480px) {
+  h1.branding { font-size: 70px; }
+}
 /* 
  * print styles
  * inlined to avoid required HTTP connection www.phpied.com/delay-loading-your-print-css/ 
