@@ -2,7 +2,7 @@
 layout: post
 title: "The Nature of Writing as Design"
 postdate: 2012-1-15 12:04:09
-summary: After discussions with a writer friend, in which he considered them different, I realized it would be prudent to put my thoughts on the subject to paper
+summary: After discussions with a writer friend, in which he considered design and writing to be different, I realized it would be prudent to put my thoughts on the subject to paper
 ---
 
 h2. The nature of design
