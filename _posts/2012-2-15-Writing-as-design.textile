@@ -27,7 +27,7 @@ h2. A short diversion: Design as it applies to the web
 
 When we begin to view product design on the web, for example, as a special thing, there is the risk that we might confine ourselves to the known limits of a nascent field without relying on the wealth of knowledge on the subject of creativity that has been built up over centuries of philosophical thought.
 
-Even when attempting a narrow definition of design in the context of the web, there is clearly some frustration to be found. “Let’s call it graphic design” [2] declares Mark Boulton (@markboulton). However, this ignores the other facets of design that are in no way "graphic", such as the impact of sound, haptic feedback, all of which could contribute immensely to the overall experience of whatever we create. Rather that doing so, we are reduced to shiny gradients and “user experience design”.
+Even when attempting a narrow definition of design in the context of the web, there is clearly some frustration to be found. “Let’s call it graphic design” declares "Mark Boulton":http://twitter.com/markboulton[2]. However, this ignores the other facets of design that are in no way "graphic", such as the impact of sound, haptic feedback, all of which could contribute immensely to the overall experience of whatever we create. Rather that doing so, we are reduced to shiny gradients and “user experience design”.
 
 Such brutal narrowing is risky, as it perpetuates a model that does not evolve, one that is set upon the two-dimensional. It would be remiss to do this, but that is not the focus of this discussion and we return to how design is reflected in the medium of the written word.
 
@@ -35,7 +35,7 @@ h2. Bridging the gap
 
 A friend of mine once said, “The design of ideas is not the same as the design of things”, but I would have to disagree. There is no apparent difference beyond the physical limitations of one manifestation. Thus, it is evident that some of the lessons of one medium might be useful when applied to the other.
 
-In Don Norman's classic, The Design of Everyday Things[3], he describes the seven stages of action which include a model of perception that could be perfectly usable for the written word. This model describes a range spanning _the gulf of execution_ to the real world, and ultimately _the gulf of evaluation_.
+In Don Norman's classic, The Design of Everyday Things[3], he describes the seven stages of action which include a model of perception that could be perfectly usable for the written word. This model describes a range spanning _the gulf of execution_ to the real world, and ultimately, _the gulf of evaluation_.
 
 Walking across the spectrum from the material to the immaterial, you arrive at the very same point. All things, even ideas are as perceived by the observer. The observer’s knowledge of things determines his response.
 
