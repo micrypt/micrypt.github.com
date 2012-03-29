@@ -35,7 +35,7 @@ h2. Bridging the gap
 
 A friend of mine once said, “The design of ideas is not the same as the design of things”, but I would have to disagree. There is no apparent difference beyond the physical limitations of one manifestation. Thus, it is evident that some of the lessons of one medium might be useful when applied to the other.
 
-In Don Norman's classic, The Design of Everyday Things[3], he describes the seven stages of action which includes a model of perception that could be perfectly usable for the written word. This model describes a range spanning _the gulf of execution_ to the real world, and ultimately _the gulf of evaluation_.
+In Don Norman's classic, The Design of Everyday Things[3], he describes the seven stages of action which include a model of perception that could be perfectly usable for the written word. This model describes a range spanning _the gulf of execution_ to the real world, and ultimately _the gulf of evaluation_.
 
 Walking across the spectrum from the material to the immaterial, you arrive at the very same point. All things, even ideas are as perceived by the observer. The observer’s knowledge of things determines his response.
 
@@ -47,7 +47,7 @@ Just as the chair might be designed as a means of sitting down - words are desig
 
 All this serves as a reminder to avoid limiting one's thoughts to what is accomodated by the medium of expression. Ultimately, we are all in the business of creation – the lessons learned by each facet are just as relevant in others.
 
-And of course, I’d like to thank the friends who helped structure this piece and read early drafts. In particular, "Swizec Teller":http://swizec.com, "Thomas Petersen":http://000fff.org, "Tolu Oloruntoba":http://toloruntoba.wordpress.com/, Angostura & Ziyad Basheer. Their suggestions were invaluable.
+And of course, I’d like to thank the friends who helped structure this piece and read early drafts. In particular, "Swizec Teller":http://swizec.com, "Thomas Petersen":http://000fff.org, "Tolu Oloruntoba":http://insula.posterous.com/, Angostura and Ziyad Basheer. Their suggestions were invaluable.
 
 h2. References
 
