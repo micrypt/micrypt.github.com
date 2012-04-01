@@ -59,4 +59,5 @@ fn3. Norman, D.A., 2002. The Design of Everyday Things, Basic Books.
 
 h2. Update
 
-"Tom Morris":http://blog.tommorris.org/post/20123571770/the-danger-of-design-thinking wrote a well-considered response to this journal entry which examines the other extreme, in which he warns of the extremes of "design thinking". It is well worth reading, as with all other things, one must strive for balance.
+"Tom
+Morris":http://blog.tommorris.org/post/20123571770/the-danger-of-design-thinking wrote a well-considered response to this journal entry, in which he warns of the extremes of "design thinking". It is well worth reading, as with all other things, one must strive for balance.
