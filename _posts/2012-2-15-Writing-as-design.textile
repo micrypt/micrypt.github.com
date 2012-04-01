@@ -57,4 +57,6 @@ fn2. Boulton, M., 2011. Visual Design is not a Thing, The Manual (Issue 2), Fict
 
 fn3. Norman, D.A., 2002. The Design of Everyday Things, Basic Books.
 
+h2. Update
 
+"Tom Morris":http://blog.tommorris.org/post/20123571770/the-danger-of-design-thinking wrote a well-considered response to this journal entry which examines the other extreme, in which he warns of the extremes of "design thinking". It is well worth reading, as with all other things, one must strive for balance.
