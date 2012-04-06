@@ -5,7 +5,7 @@ postdate: 2011-07-4 12:04:09
 summary: A quick start guide to using squeryl with specs2 for unit testing.
 ---
 
-In the absence of a detailed quick start guide to testing "Squeryl":http://squeryly.org projects with "specs2":http://etorreborre.github.com/specs2, I've ended writing up some information for anyone else getting started with combining both projects. After quite a bit of hair pulling, I got some guidance on doing so from "@etorreborre":http://twitter.com/etorreborre.
+In the absence of a detailed quick start guide to testing "Squeryl":http://squeryl.org projects with "specs2":http://etorreborre.github.com/specs2, I've ended writing up some information for anyone else getting started with combining both projects. After quite a bit of hair pulling, I got some guidance on doing so from "@etorreborre":http://twitter.com/etorreborre.
 
 h2. Avoid implicit clashes
 
