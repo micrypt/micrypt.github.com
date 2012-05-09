@@ -35,7 +35,7 @@ If a reader is aware of a study that quantifies the influence of "good" design (
 
 h2. Update
 
-Judging from the comments on "Hacker News":http://news.ycombinator.com/item?id=3943117, a point I do not seem to be communicating effectively is that hiring for design is terribly broken. You can work out to some extent out how people reason by reading their code but you cannot do the same by looking at their design portfolio or gallery. This need to change. While it worked reasonably well in the advertising agency days, it is becoming increasingly useless for this decade. Mea culpa.
+Judging from the comments on "Hacker News":http://news.ycombinator.com/item?id=3943117, a point I do not seem to be communicating effectively is that hiring for design is terribly broken. You can work out, to a certain extent, how people reason by reading their code but you cannot do the same by looking at their design portfolio or gallery. This need to change. While it worked reasonably well in the advertising agency days, it is becoming increasingly useless for this decade. Mea culpa.
 
 h2. References
 
