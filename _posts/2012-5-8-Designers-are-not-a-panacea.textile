@@ -29,7 +29,13 @@ I am concerned that "I am looking for a design co-founder" will become the new "
 
 bq. De omnibus dubitandum. – René Descartes
 
-Addendum: If a reader is aware of a study that quantifies the influence of "good" design (however that is defined) on startup success, I would be interested in having a read. As far as I am aware, there are none.
+h2. Addendum 
+
+If a reader is aware of a study that quantifies the influence of "good" design (however that is defined) on startup success, I would be interested in having a read. As far as I am aware, there are none.
+
+h2. Update
+
+Judging from the comments on "Hacker News":http://news.ycombinator.com/item?id=3943117, a point I do not seem to be communicating effectively is that hiring for design is terribly broken. You can work out to some extent out how people reason by reading their code but you cannot do the same by looking at their design portfolio or gallery. This need to change. While it worked reasonably well in the advertising agency days, it is becoming increasingly useless for this decade. Mea culpa.
 
 h2. References
 
