@@ -230,7 +230,9 @@ margin:0 0 20px;
 font-size: 1.2em;
 line-height: 1.9em;
 }
-
+div.post li {
+font-size: 1.2em;
+}
 blockquote {
 border-left: 1px solid #CCC;
 padding-left: 20px;
