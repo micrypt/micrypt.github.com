@@ -5,7 +5,7 @@ padding-bottom:0;
 body, select, input, textarea {
 color#000;
 }
-div.navigation{
+div.navigation {
 background-color:#000000;
 clear:both;
 height:50px;
@@ -40,23 +40,23 @@ border-bottom:1px dashed #CCCCCC;
 div#content ol li.last {
 border:none;
 }
-.branding .red-text{
+.branding .red-text {
 padding:0;
 color:#800000;
 }
-li span.title{
+li span.title {
 display:block;
 float:left;
 margin-bottom:20px;
 width:290px;
 }
-li span.title a{
+li span.title a {
 font-size:22px;
 font-weight:bold;
 color:#000;
 text-decoration:none;
 }
-li span.title a:hover{
+li span.title a:hover {
 color:#800000;
 text-decoration:underline;
 }
@@ -117,12 +117,12 @@ background-color:#7f0000;
 height:340px;
 text-align: left;
 }
-div#footer-main a{
+div#footer-main a {
 color:#330000;
 text-decoration: none;
 text-shadow: none;
 }
-div#footer-main a:hover{
+div#footer-main a:hover {
 color:#ca0000;
 text-decoration: underline;
 }
@@ -139,11 +139,11 @@ height:45px;
 width:900px;
 margin:auto;
 }
-div.black-band{
+div.black-band {
 display:block;
 width:430px;
 }
-div.red-bands{
+div.red-bands {
 display:block;
 float:right;
 width:430px;
@@ -155,31 +155,31 @@ float:left;
 height:50px;
 width:25%;
 }
-div.red-bands div.b1{
+div.red-bands div.b1 {
 background-color:#580000;
 }
-div.red-bands div.b2{
+div.red-bands div.b2 {
 background-color:#750000;
 }
-div.red-bands div.b3{
+div.red-bands div.b3 {
 background-color:#ab0000;
 }
-div.red-bands div.crest{
+div.red-bands div.crest {
 background: url("/images/site/crest.png") no-repeat scroll 42px 10px #C80000;
 }
-#footer{
+#footer {
 background-color:#000;
 }
-#footer div div div#links{
+#footer div div div#links {
 padding:40px 0 15px;
 text-align: center;
 width: 210px;
 }
-#footer div div div#links ul li{
+#footer div div div#links ul li {
 float: left;
 list-style:none;
 }
-#footer div div div#links ul li a{
+#footer div div div#links ul li a {
 display: block;
 height: 20px;
 overflow: hidden;
@@ -187,33 +187,32 @@ padding: 10px 15px;
 text-indent: -9999px;
 width: 20px;
 }
-#footer div div div#links ul li a#twitter{
+#footer div div div#links ul li a#twitter {
 background:url("/images/icons.png") no-repeat scroll 10px 10px transparent
 }
-#footer div div div#links ul li a#flickr{
+#footer div div div#links ul li a#flickr {
 background:url("/images/icons.png") no-repeat scroll -45px 10px transparent
 }
-#footer div div div#links ul li a#tumblr{
+#footer div div div#links ul li a#tumblr {
 background:url("/images/icons.png") no-repeat scroll -95px 10px transparent
 }
-#footer div div div#links ul li a#twitter:hover{
+#footer div div div#links ul li a#twitter:hover {
 background:url("/images/icons.png") no-repeat scroll 10px -20px transparent
 }
-#footer div div div#links ul li a#flickr:hover{
+#footer div div div#links ul li a#flickr:hover {
 background:url("/images/icons.png") no-repeat scroll -45px -20px transparent
 }
-#footer div div div#links ul li a#tumblr:hover{
+#footer div div div#links ul li a#tumblr:hover {
 background:url("/images/icons.png") no-repeat scroll -95px -20px transparent
 }
-#footer div div div#titles{
+#footer div div div#titles {
 clear: both;
 color: #400000;
 font-size: 18px;
 font-weight: bold;
 text-align: center;
-width: 350px;
 }
-div.default,div.post{
+div.default,div.post {
 font-family: Georgia,serif;
 font-size: 16px;
 line-height: 25px;
@@ -222,7 +221,7 @@ min-height: 700px;
 width: 655px;
 margin-bottom:50px;
 }
-div.default p,div.post p{
+div.default p,div.post p {
 text-shadow: rgba(255, 255, 255, .8) 0 1px 0;
 line-height: 30px;
 color: #444;
@@ -238,15 +237,15 @@ border-left: 1px solid #CCC;
 padding-left: 20px;
 font-style: italic;
 }
-blockquote p,div.post blockquote p{
+blockquote p,div.post blockquote p {
 color: #777;
 }
-div.post ol,div.post ul, div.post li{
+div.post ol,div.post ul, div.post li {
 text-shadow: rgba(255, 255, 255, .8) 0 1px 0;
 line-height: 30px;
 color: #444;
 }
-div.default h1.title,div.post h1.title{
+div.default h1.title,div.post h1.title {
 font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
 font-size: 2.5em;
 display: block;
@@ -254,7 +253,7 @@ text-align:center;
 margin:10px auto 20px auto; 
 line-height: 1em;
 }
-div.post img{
+div.post img {
 display: block;
 margin: 35px auto;
 text-align:center;
@@ -263,27 +262,27 @@ border:10px solid #fff;
 -webkit-box-shadow: 0 0 3px#ccc;
 box-shadow: 0 0 3px #ccc;
 }
-div.post h2{
+div.post h2 {
 font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
 font-weight: bold;
 font-size: 25px;
 padding-bottom: 15px;
 }
-div.post b, div.post a{
+div.post b, div.post a {
 font-family:  'Helvetica Neue',Helvetica,Arial,sans-serif;
 text-decoration: none;
 font-weight: bold;
 }
-div.post a:hover{
+div.post a:hover {
 text-decoration:underline;
 }
-div.crest a{
+div.crest a {
 width:100%;
 height:100%;
 display:block;
 }
 body.archive #footer,
-body.post #footer{
+body.post #footer {
 height: 120px;
 }
 body.post h1.branding {
@@ -300,7 +299,7 @@ color: #333;
 width: 655px;
 line-height: 28px;
 }
-h1.branding{
+h1.branding {
 text-shadow:0 1px 0 #CCC,
 0 2px 0 #C9C9C9, 
 0 3px 0 #BBB, 
@@ -314,29 +313,29 @@ text-shadow:0 1px 0 #CCC,
 0 10px 10px rgba(0, 0, 0, .2), 
 0 20px 20px rgba(0, 0, 0, .15);
 }
-div.previous{
+div.previous {
 float: left; 
 padding: 13px 20px 17px; 
 height: 20px;
 }
-div.previous a{
+div.previous a {
 color: #666; text-decoration: none; font-family: Georgia serif; font-size: 14px; font-style: italic;
 }
-div.previous a:hover{
+div.previous a:hover {
 color:#fff;
 }
-div.next{
+div.next {
 float: right;
 padding: 13px 20px 17px;
 height: 20px;
 }
-div.next a{
+div.next a {
 color: #666; text-decoration: none; font-family: Georgia serif; font-size: 14px; font-style: italic;
 }
-div.next a:hover{
+div.next a:hover {
 color:#fff;
 }
-div.post img.alpha, img.alpha{
+div.post img.alpha, img.alpha {
 border: none;
 box-shadow: none;
 }
@@ -355,12 +354,12 @@ border: 0;
  * These follow after primary styles so they will successfully override. 
  */
 
-@media all and (orientation:portrait) { 
+@media all and (orientation:portrait) {
   /* Style adjustments for portrait mode goes here */
   
 }
 
-@media all and (orientation:landscape) { 
+@media all and (orientation:landscape) {
   /* Style adjustments for landscape mode goes here */
   
 }
@@ -398,8 +397,15 @@ border: 0;
     width: 23px;
   }
   .date { width: 17%; }
-  div#content ol li { min-height: 120px; }
+  div#content ol li { min-height: 160px; }
   li span.summary { width: 51%; }
+  li span.title a {
+    -moz-hyphens:auto;
+    -ms-hyphens:auto;
+    -webkit-hyphens:auto;
+    hyphens:auto;
+    word-wrap:break-word;
+    font-size: 22px; }
   div#footer-main { height: auto; }
 }
 /* 
@@ -417,5 +423,5 @@ border: 0;
   tr, img { page-break-inside: avoid; }
   @page { margin: 0.5cm; }
   p, h2, h3 { orphans: 3; widows: 3; }
-  h2, h3{ page-break-after: avoid; }
+  h2, h3 { page-break-after: avoid; }
 }
