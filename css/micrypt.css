@@ -16,7 +16,6 @@ font-size: 130px;
 font-weight:bold;
 }
 h2.title {
-/*border-bottom:1px solid #CCCCCC;*/
 font-size:40px;
 font-weight:700;
 padding:25px 0;
@@ -225,7 +224,7 @@ div.default p,div.post p {
 text-shadow: rgba(255, 255, 255, .8) 0 1px 0;
 line-height: 30px;
 color: #444;
-margin:0 0 20px;
+margin:0 0 30px;
 font-size: 1.2em;
 line-height: 1.9em;
 }
@@ -266,7 +265,12 @@ div.post h2 {
 font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
 font-weight: bold;
 font-size: 25px;
-padding-bottom: 15px;
+margin-bottom: 20px;
+}
+div.post h3 {
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size: 20px;
+margin-bottom: 15px;
 }
 div.post b, div.post a {
 font-family:  'Helvetica Neue',Helvetica,Arial,sans-serif;
@@ -342,13 +346,20 @@ box-shadow: none;
 ol, ul {
 margin-bottom:2em;
 }
-.gist {
+.post .gist {
 font-size: 0.7em;
 }
 .post .gist .gist-file {
 border: 0;
+font-size: 13px;
 }
-
+.post .gist .gist-file .gist-data {
+background-color: transparent;
+border-bottom: 0;
+}
+.post .gist .gist-file .gist-meta {
+display: none;
+}
 /*
  * Media queries for responsive design
  * These follow after primary styles so they will successfully override. 
