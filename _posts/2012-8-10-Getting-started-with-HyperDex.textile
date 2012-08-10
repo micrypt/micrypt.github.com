@@ -5,7 +5,7 @@ postdate: 2012-8-10 2:11:09
 summary: Super-charging your NoSQL with a datastore that cares about your data
 ---
 
-Alright, let's start this off with a fitting "soundtrack":http://youtu.be/DSx_N18TWjs just because we can. Open it up in a tab and come back? 
+Alright, let's start this off with a fitting "soundtrack":http://youtu.be/TCoMmWka-fE just because we can. Open it up in a tab and come back? 
 
 h2. Greetings, valiant adventurer!
 
