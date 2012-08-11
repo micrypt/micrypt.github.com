@@ -77,4 +77,4 @@ fn3. Escriva R., Wong B. and Sirer E., 2012. A New Era in High Performance Data 
 
 h2. Notes
 
-I’d like to thank "Tav":http://tav.espians.com, "Ziyad Basheer":http://ziyadbasheer.com, "Emin Gün Sirer":http://www.cs.cornell.edu/people/egs/ and "Mahipal Raythattha":http://twitter.com/mahipal for reading drafts of this article and helping make it somewhat coherent. As always, any errors are mine. If you want any clarification or just want to troll me, you can find me "here":http://twitter.com/micrypt.
+Many thanks to "Tav":http://tav.espians.com, "Ziyad Basheer":http://ziyadbasheer.com, "Emin Gün Sirer":http://www.cs.cornell.edu/people/egs/ and "Mahipal Raythattha":http://mahipal.org for reading drafts of this article and helping make it somewhat coherent. As always, any errors are mine. If you want any clarification or just want to troll me, you can find me "here":http://twitter.com/micrypt.
