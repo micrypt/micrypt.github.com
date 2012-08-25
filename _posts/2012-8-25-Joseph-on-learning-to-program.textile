@@ -2,7 +2,7 @@
 layout: post
 title: "Joseph On Learning to Program: #1"
 postdate: 2012-8-25 2:11:09
-summary: Documenting a journey into learning to program
+summary: Guest article - Documenting a journey into learning to program
 ---
 
 "How did you learn to code?"
