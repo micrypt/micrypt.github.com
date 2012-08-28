@@ -34,7 +34,7 @@ h2. My Setup.
 h3. Books 
 
 "Learn Python The Hard Way":http://learnpythonthehardway.org/
-"Dive Into Python":http://www.diveintopython.org
+"Dive Into Python":http://www.diveintopython.net
 
 h3. Development
 
