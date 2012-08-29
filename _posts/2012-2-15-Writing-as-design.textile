@@ -27,7 +27,7 @@ h2. A short diversion: Design as it applies to the web
 
 When we begin to view product design on the web, for example, as a special thing, there is the risk that we might confine ourselves to the known limits of a nascent field without relying on the wealth of knowledge on the subject of creativity that has been built up over centuries of philosophical thought.
 
-Even when attempting a narrow definition of design in the context of the web, there is clearly some frustration to be found. “Let’s call it graphic design” declares "Mark Boulton":http://twitter.com/markboulton/ [2]. However, this ignores the other facets of design that are in no way "graphic", such as the impact of sound, haptic feedback, all of which could contribute immensely to the overall experience of whatever we create. Rather that doing so, we are reduced to shiny gradients and “user experience design”.
+Even when attempting a narrow definition of design in the context of the web, there is clearly some frustration to be found. “Let’s call it graphic design” declares "Mark Boulton":http://twitter.com/markboulton/ [2]. However, this ignores the other facets of design that are in no way "graphic", such as the impact of sound, haptic feedback, all of which could contribute immensely to the overall experience of whatever we create. Rather than doing so, we are reduced to shiny gradients and “user experience design”.
 
 Such brutal narrowing is risky, as it perpetuates a model that does not evolve, one that is set upon the two-dimensional. It would be remiss to do this, but that is not the focus of this discussion and we return to how design is reflected in the medium of the written word.
 
