@@ -100,7 +100,6 @@ padding-left:5px;
 #footer {
 position: relative;
 height:520px;
-/*text-shadow:0 1px 0 #C10000;*/
 font-size:19px;
 }
 #footer h2.title {
@@ -110,6 +109,7 @@ color: #fff;
 #footer p {
 line-height:25px;
 padding-bottom:25px;
+color: #fff;
 }
 div#footer-main {
 background-color:#7f0000;
@@ -117,9 +117,10 @@ height:340px;
 text-align: left;
 }
 div#footer-main a {
-color:#330000;
+color: #E90000;
 text-decoration: none;
 text-shadow: none;
+font-weight: bold;
 }
 div#footer-main a:hover {
 color:#ca0000;
