@@ -297,10 +297,10 @@ margin: 32px auto 56px;
 }
 body.post .summary {
 font-family: Georgia, serif;
-font-size: 15px;
+font-size: 17px;
 font-style: italic;
 margin: 35px auto;
-color: #333;
+color: rgb(109, 109, 109);
 width: 655px;
 line-height: 28px;
 }
