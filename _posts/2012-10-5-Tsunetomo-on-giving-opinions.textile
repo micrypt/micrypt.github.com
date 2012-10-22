@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Tsunetomo on giving one's opinion"
+title: "Tsunetomo on giving opinions"
 postdate: 2012-9-25 2:11:09
 summary: Ever so often you'll get asked to weigh in on some topic or asked what you think of someone's work.
 ---

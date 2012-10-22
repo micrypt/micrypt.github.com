@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Joseph On Learning to Program: #1"
+title: "Joseph on learning to program: #1"
 postdate: 2012-8-25 2:11:09
 summary: Guest article - Documenting a journey into learning to program
 ---
