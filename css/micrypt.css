@@ -400,7 +400,7 @@ display: none;
 }
 
 @media only screen and (max-width: 480px) {
-  h1.branding { font-size: 70px; }
+  h1.branding { font-size: 60px; }
   body.post h1.branding { font-size: 50px; }
   .date em {
     float: left;
