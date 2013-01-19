@@ -113,8 +113,8 @@ color: #fff;
 }
 div#footer-main {
 background-color:#7f0000;
-height:340px;
 text-align: left;
+padding-bottom: 40px;
 }
 div#footer-main a {
 color: #E90000;
