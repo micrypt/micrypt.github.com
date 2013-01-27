@@ -15,7 +15,7 @@ However, there is another way. Each time you run into a challenge, you are prese
 
 Repeat this as your suburi (素振り) - a daily practice toward mastery. In doing so, minimise technical debt by doing things correctly from the onset.
 
-"Opinionated software" is bullshit.
+"Opinionated software" is a harbinger of bullshit.
 
 h2. Note
 
