@@ -5,6 +5,14 @@ padding-bottom:0;
 body, select, input, textarea {
 color#000;
 }
+header .date {
+color: #CCC;
+text-transform: uppercase;
+width: 140px;
+margin: 45px auto 0;
+display: block;
+float: none;    
+}
 div.navigation {
 background-color:#000000;
 clear:both;
@@ -94,8 +102,10 @@ width:34px;
 .date small {
 display:block;
 float:left;
-font-size:12px;
+font-size:11px;
 padding-left:5px;
+position: relative;
+top: 2px;
 }
 #footer {
 position: relative;
@@ -400,6 +410,9 @@ display: none;
 }
 
 @media only screen and (max-width: 480px) {
+  header .date {
+      margin: 120px auto 0;
+  }
   h1.branding { font-size: 50px; }
   body.post h1.branding { font-size: 50px; }
   .date em {

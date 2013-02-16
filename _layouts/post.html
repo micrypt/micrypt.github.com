@@ -61,6 +61,7 @@
                     {% endif %}                        
                     </div>
 				</div>
+                <time class="date" datetime="{{ page.date | date: "%Y-%m-%d"}}">{{ page.date | date: "%B %d, %Y" }}</time>
                 <h1 class="branding">{{ page.title }}</h1>
                 <p class="summary">{{ page.summary }}</p>
     </header>
