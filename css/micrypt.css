@@ -328,25 +328,27 @@ text-shadow:0 1px 0 #CCC,
 0 10px 10px rgba(0, 0, 0, .2), 
 0 20px 20px rgba(0, 0, 0, .15);
 }
+header span { padding: 0.2em 0.5em; font-size: 9px; display: inline-block; }
 div.previous {
 float: left; 
 padding: 13px 20px 17px; 
 height: 20px;
-}
-div.previous a {
-color: #666; text-decoration: none; font-family: Georgia serif; font-size: 14px; font-style: italic;
-}
-div.previous a:hover {
-color:#fff;
 }
 div.next {
 float: right;
 padding: 13px 20px 17px;
 height: 20px;
 }
+div.previous a,
 div.next a {
-color: #666; text-decoration: none; font-family: Georgia serif; font-size: 14px; font-style: italic;
+color: #777;
+text-decoration: none; 
+font-family: Helvetica, sans-serif; 
+font-size: 13px;
+font-style: normal;
+font-weight: bold;
 }
+div.previous a:hover,
 div.next a:hover {
 color:#fff;
 }
