@@ -54,7 +54,7 @@ So, the moment you've probably been waiting for is upon us: how do you actually 
 
 h2. Setting up a playground
 
-To get started, you can follow the installation "instructions":https://github.com/rescrv/HyperDex/blob/master/doc/installation.rst included in the HyperDex Git repo. This covers installing one of the precompiled binaries for Debian, Ubuntu or Fedora, or compiling from source depending on your needs. If you're on Debian and run into any trouble, you could take a look at François Dussert's "guide":http://blog.usul.org/compiling-and-installing-hyperdex-from-sources-with-java-and-ycsb-bindings-on-debian/ for Debian installations. 
+To get started, you can follow the installation "instructions":https://github.com/rescrv/HyperDex/blob/master/doc/02.installation.rst included in the HyperDex Git repo. This covers installing one of the precompiled binaries for Debian, Ubuntu or Fedora, or compiling from source depending on your needs. If you're on Debian and run into any trouble, you could take a look at François Dussert's "guide":http://blog.usul.org/compiling-and-installing-hyperdex-from-sources-with-java-and-ycsb-bindings-on-debian/ for Debian installations. 
 
 With that done, you can have a play with the "tutorial":http://hyperdex.org/doc/tutorial/, and perhaps attempt modelling the calendar we discussed earlier.
 
