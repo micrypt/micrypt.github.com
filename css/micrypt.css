@@ -266,11 +266,11 @@ line-height: 1em;
 div.post img {
 display: block;
 margin: 35px auto;
+width: 100%;
 text-align:center;
-border:10px solid #fff;
--moz-box-shadow: 0 0 3px #ccc;
--webkit-box-shadow: 0 0 3px#ccc;
-box-shadow: 0 0 3px #ccc;
+-moz-box-shadow: 0px 2px 6px #ddd;
+-webkit-box-shadow: 0px 2px 6px #ddd;
+box-shadow: 0px 2px 6px #ddd;
 }
 div.post h2 {
 font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
@@ -328,7 +328,7 @@ text-shadow:0 1px 0 #CCC,
 0 10px 10px rgba(0, 0, 0, .2), 
 0 20px 20px rgba(0, 0, 0, .15);
 }
-header span { padding: 0.2em 0.5em; font-size: 9px; display: inline-block; }
+header .navigation span { padding: 0.2em 0.5em; font-size: 9px; display: inline-block; }
 div.previous {
 float: left; 
 padding: 13px 20px 17px; 
