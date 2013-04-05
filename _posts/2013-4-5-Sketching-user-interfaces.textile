@@ -44,7 +44,7 @@ When you've figured out to some extent what your solution will look like, then y
 
 !/images/final-time-control.png!
 
-Well, now that you're done, there's nothing stopping you from shipping it off to "Dribbble":http://dribbble.com/micrypt or more importantly get it converted into code, test it out, and iterate until you've gotten it just right.
+Well, now that you're done, there's nothing stopping you from shipping it off to "Dribbble":http://dribbble.com/shots/1016680-Time-Control or more importantly get it converted into code, test it out, and iterate until you've gotten it just right.
 
 h2. Postscript
 
