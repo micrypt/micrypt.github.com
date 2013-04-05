@@ -1,0 +1,42 @@
+--- 
+layout: post
+title: "Sketching user interfaces"
+postdate: 2013-3-5 2:11:09
+summary: A few tips on how to approach sketching user interfaces
+---
+
+I seem to have a compulsion to help bridge the so-called gap between designers and programmers. What follows are a few tips on sketching user interfaces. However, these are not prescriptive, but my own hacky way of doing things. They might work for you, they might not. If you have an alternative process, do share with everyone else. At that very least, these might provide some amusement for the next few minutes. Enjoy.
+
+h2. The Broken Door
+
+It's happened again. You've decided to make something, but you're not sure what exactly it should look like yet. You pull out your favourite tool for wireframing or sketching out user interfaces, and spend a few minutes doodling. Sometimes that works, but sometimes it doesn't. Quite often, you run right into a wall. Damn. Stuck again. 
+
+What now?
+
+I'd have thought to use one of the online mockup tools, but they tend to be only decent at arranging a limited set of predefined components. There are times when you need to make something that they haven't thought of yet. This is one of the times when getting some sketching done can make a lot of difference to your workflow.
+
+One way to move ahead is to get zone out for a bit, and discard the sense of urgency. Let's make this a concrete example. Just the other day, I had to come up with a solution to the problem of entering a time or date in the future, a range of some sort, into an application. Most people would just end up plopping down two calendar views, and screaming "job done!" at the top of their lungs. However, on some rare occasion, you might actually have a reason to do better than that. 
+
+So, we have a problem; a time range input. Let's get that licked in no time (yeah right)! 
+
+Get a decent pencil. This might sound like an indulgence, but I've found that having decent pencil means you don't have to worry about it acting up unnecessarily--that's one less thing to worry about. In my case, I have the "rOtring 600 Black Mechanical Pencil 0.5":http://www.rotring.com/en/290-rotring-600-black-mechanical-pencil-05--3501178523096.html on the recommendation of my friend "Kyro":http://kyrobeshay.com.
+
+!/images/sketch-pencil.png!
+
+If you're concerned that your sketches don't look like mine, don't worry about that. It just take a bit of "practice":/2010/02/18/Kendo-Goals.html. Besides, drawing pretty pictures is a non-goal in this case. Solving UI problems is the goal.
+
+bq. “We work because it’s a chain reaction, each subject leads to the next.” -- Charles Eames
+
+h2. Tools
+
+In my case, I've found that using a "dot-grid":http://dotgrid.co "notebook":http://www.creativesoutfitter.com/product/34/dot-grid-book helps when you need to design something with rigid proportions. Otherwise, a plain notebook is works well enough. I also have a tablet for when I'm at the desk, and want some flexibility with colour without the clutter and overhead of having to deal with a collection of colour pens.
+
+One thing that might be useful to do, is to make a checklist of the most important aspects you wish to capture in whatever you might be designing. An example might be; mobile support, accessibility (this should probably be on every checklist you make)and flexible proportions.
+
+!/images/final-time-control.png!
+
+Well, now that you're done, there's nothing stopping you from shipping it off to Dribbble or more importantly get it converted into code, test it out, and iterate until you've gotten it just right.
+
+h2. Postscript
+
+If you're like me and spend time on both sides of the fabled designer-developer divide, I might have a Dribbble invite for you. I still have three at the moment. So, "send me a message":http://twitter.com/micrypt with a GitHub profile and some design work. Let's see how it goes.
