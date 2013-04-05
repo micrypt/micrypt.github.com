@@ -27,7 +27,7 @@ h2. A process
 
 Quite often the hardest part of sketching just about anything is getting past the blank sheet of paper in front of you. The way you avoid that is to keep around a piece of paper labelled "scratch paper", and convince yourself that anything drawn on it is absolutely disposable. That's the paper you'll use for warm-ups sketches which will probably look like utter crap. 
 
-It's perfectly fine to promptly toss those preliminary sketches into the wastepaper basket once you've gotten a sense of the direction you want to take things. I'd show you mine, but they're at the bottom of the bin, just like yours will be. You just keep going until you're out of time, and figured out something that works. It doesn't have to be perfect at the first try. Design in an interative process. It will improve with feedback from users. 
+It's perfectly fine to promptly toss those preliminary sketches into the wastepaper basket once you've gotten a sense of the direction you want to take things. I'd show you mine, but they're at the bottom of the bin, just like yours will be. You just keep going until you're out of time, and figured out something that works. It doesn't have to be perfect at the first try. Design in an iterative process. It will improve with feedback from users. 
 
 In this case the idea is that "you click and drag on the slider to pick a time range offset from the preset, use the +/- buttons for more fine grained control, and click the clock area for a drop down with presets in it". Details like these will go into your notes drawn beside the sketch (or elsewhere, as you prefer).
 
