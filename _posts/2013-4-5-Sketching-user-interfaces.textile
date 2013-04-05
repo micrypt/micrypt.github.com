@@ -17,9 +17,9 @@ So, we have a problem; a time range input. Let's get that licked in no time (yea
 
 h2. Tools
 
-Before venturing out into the design unknown, it's probably a good idea to fill out rucksack with some gear.
+Before venturing out into the design unknown, it's probably a good idea to fill your rucksack with some gear.
 
-In my case, I've found that using a "dot-grid":http://dotgrid.co "notebook":http://www.creativesoutfitter.com/product/34/dot-grid-book helps when you need to design something with rigid proportions. Otherwise, a plain notebook is works well enough. I also have a tablet for when I'm at the desk, and want some flexibility with colour without the clutter and overhead of having to deal with a collection of colour pens.
+In my case, I've found that using a "dot-grid":http://dotgrid.co "notebook":http://www.creativesoutfitter.com/product/34/dot-grid-book helps when you need to design something with rigid proportions. Otherwise, a plain notebook is works well enough. I also have a tablet for when I'm at my desk, and want some flexibility with colour without the clutter and overhead of having to deal with a collection of colour pens.
 
 Get a decent pencil. This might sound like an indulgence, but I've found that having decent pencil means you don't have to worry about it acting up unnecessarily--that's one less thing to worry about. In my case, I have the "rOtring 600 Black Mechanical Pencil 0.5":http://www.rotring.com/en/290-rotring-600-black-mechanical-pencil-05--3501178523096.html on the recommendation of my friend "Kyro":http://kyrobeshay.com.
 
