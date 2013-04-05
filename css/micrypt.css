@@ -266,8 +266,6 @@ line-height: 1em;
 div.post img {
 display: block;
 margin: 35px auto;
-width: 100%;
-text-align:center;
 -moz-box-shadow: 0px 2px 6px #ddd;
 -webkit-box-shadow: 0px 2px 6px #ddd;
 box-shadow: 0px 2px 6px #ddd;
