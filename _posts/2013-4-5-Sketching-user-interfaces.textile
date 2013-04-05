@@ -5,10 +5,6 @@ postdate: 2013-4-5 2:11:09
 summary: A few tips on how to approach sketching user interfaces
 ---
 
-What follows is a small set of tips on sketching user interfaces. However, these are not prescriptive, only my own hacky way of doing things. They might work for you, or they might not. If you have an alternative process, do share with everyone else. At that very least, these might provide some amusement for the next few minutes. Enjoy.
-
-h2. The Broken Door
-
 It's happened again. You've decided to make something, but you're not sure what exactly it should look like yet. You pull out your favourite tool for wireframing or sketching out user interfaces, and spend a few minutes doodling. Sometimes that works, but sometimes it doesn't. Quite often, you run right into a wall. Damn. Stuck again. 
 
 What now?
