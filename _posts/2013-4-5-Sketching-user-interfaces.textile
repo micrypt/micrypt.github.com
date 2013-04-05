@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Sketching user interfaces"
-postdate: 2013-3-5 2:11:09
+postdate: 2013-4-5 2:11:09
 summary: A few tips on how to approach sketching user interfaces
 ---
 
