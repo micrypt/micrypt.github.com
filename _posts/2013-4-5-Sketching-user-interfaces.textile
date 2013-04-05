@@ -23,6 +23,10 @@ Get a decent pencil. This might sound like an indulgence, but I've found that ha
 
 h2. A process
 
+Quite often the hardest part of sketching just about anything is getting past the blank sheet of paper in front of you. The way you avoid that is to keep around a piece of paper labelled "scratch paper", and convince yourself that anything drawn on it is absolutely disposable. That's the paper you'll use for warm-ups sketches which will probably look like utter crap. 
+
+It's perfectly fine to promptly toss those preliminary sketches into the wastepaper basket once you've gotten a sense of the direction you want to take things. I'd show you mine, but they're at the bottom of the bin, just like yours will be. 
+
 !/images/sketch-pencil.png!
 
 If you're concerned that your sketches don't look like mine, don't worry about that. It just take a bit of "practice":/2010/02/18/Kendo-Goals.html. Besides, drawing pretty pictures is a non-goal in this case. Solving UI problems is the goal.
