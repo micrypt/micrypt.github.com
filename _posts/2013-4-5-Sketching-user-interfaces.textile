@@ -36,7 +36,7 @@ If you're concerned that your sketches don't look like mine, don't worry about t
 bq. “We work because it’s a chain reaction, each subject leads to the next.” -- Charles Eames
 
 
-One thing that might be useful to do, is to make a checklist of the most important aspects you wish to capture in whatever you might be designing. An example might be; mobile support, accessibility (this should probably be on every checklist you make) and flexible proportions… and above all, the context in which it will be used.
+One thing that might be useful to do is to make a checklist of the most important aspects you wish to capture in whatever you might be designing. An example list might include; mobile support, accessibility (this should probably be on every checklist you make) and flexible proportions. Above all, remember to take into consideration the context in which it will be used.
 
 When you've figured out to some extent what your solution will look like, then you can switch to your design app of choice and render out something that doesn't look a little better than your sketch. Of course, it's perfectly fine to jump straight into code, but sweating the details in a design app can sometimes help.
 
