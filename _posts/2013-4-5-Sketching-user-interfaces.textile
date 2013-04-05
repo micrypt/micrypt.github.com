@@ -50,4 +50,4 @@ h2. Postscript
 
 If you're like me and spend time on both sides of the fabled designer-developer divide, I might have a Dribbble invite for you. I still have three at the moment. So, "send me a message":http://twitter.com/micrypt with a GitHub profile and some design work. Let's see how it goes.
 
-Also, if there's some interest, I'll probably do a follow-up article on building custom controls for iOS and the web. "Let me know":http://twitter.com/micrypt
+Also, if there's some interest, I'll probably do a follow-up article on actually building custom controls for iOS and the web. "Let me know":http://twitter.com/micrypt
