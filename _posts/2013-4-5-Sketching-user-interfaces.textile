@@ -5,7 +5,7 @@ postdate: 2013-4-5 2:11:09
 summary: A few tips on how to approach sketching user interfaces
 ---
 
-I seem to have a compulsion to help bridge the so-called gap between designers and programmers. What follows are a few tips on sketching user interfaces. However, these are not prescriptive, but my own hacky way of doing things. They might work for you, they might not. If you have an alternative process, do share with everyone else. At that very least, these might provide some amusement for the next few minutes. Enjoy.
+What follows are a few tips on sketching user interfaces. However, these are not prescriptive, but my own hacky way of doing things. They might work for you, they might not. If you have an alternative process, do share with everyone else. At that very least, these might provide some amusement for the next few minutes. Enjoy.
 
 h2. The Broken Door
 
