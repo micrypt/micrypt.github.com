@@ -27,7 +27,9 @@ h2. A process
 
 Quite often the hardest part of sketching just about anything is getting past the blank sheet of paper in front of you. The way you avoid that is to keep around a piece of paper labelled "scratch paper", and convince yourself that anything drawn on it is absolutely disposable. That's the paper you'll use for warm-ups sketches which will probably look like utter crap. 
 
-It's perfectly fine to promptly toss those preliminary sketches into the wastepaper basket once you've gotten a sense of the direction you want to take things. I'd show you mine, but they're at the bottom of the bin, just like yours will be. 
+It's perfectly fine to promptly toss those preliminary sketches into the wastepaper basket once you've gotten a sense of the direction you want to take things. I'd show you mine, but they're at the bottom of the bin, just like yours will be. You just keep going until you're out of time, and figured out something that works. It doesn't have to be perfect at the first try. Design in an interative process. It will improve with feedback from users. 
+
+In this case the idea is that "you click and drag on the slider to pick a time range offset from the preset, use the +/- buttons for more fine grained control, and click the clock area for a drop down with presets in it". Details like that will go into your notes drawn beside the sketch (or elsewhere, as you prefer).
 
 !/images/sketch-pencil.png!
 
@@ -42,8 +44,10 @@ When you've figured out to some extent what your solution will look like, then y
 
 !/images/final-time-control.png!
 
-Well, now that you're done, there's nothing stopping you from shipping it off to Dribbble or more importantly get it converted into code, test it out, and iterate until you've gotten it just right.
+Well, now that you're done, there's nothing stopping you from shipping it off to "Dribbble":http://dribbble.com/micrypt or more importantly get it converted into code, test it out, and iterate until you've gotten it just right.
 
 h2. Postscript
 
 If you're like me and spend time on both sides of the fabled designer-developer divide, I might have a Dribbble invite for you. I still have three at the moment. So, "send me a message":http://twitter.com/micrypt with a GitHub profile and some design work. Let's see how it goes.
+
+Also, if there's some interest, I'll probably do a follow-up article on building custom controls for iOS and the web. "Let me know":http://twitter.com/micrypt
