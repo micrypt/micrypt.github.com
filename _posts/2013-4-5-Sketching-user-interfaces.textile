@@ -54,4 +54,4 @@ Also, if there's some interest, I'll probably do a follow-up article on actually
 
 h2. Update
 
-There are signs of a discussion over on "HN":https://news.ycombinator.com/item?id=5499168.
+There are signs of a discussion over on "HN":https://news.ycombinator.com/item?id=5499168, "DN":https://news.layervault.com/stories/2854-sketching-for-user-interfaces and "Dribbble":http://dribbble.com/shots/1016680-Time-Control.
