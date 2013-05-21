@@ -426,7 +426,7 @@ display: none;
     padding-right: 5px;
     width: 23px;
   }
-  .date { width: 17%; }
+  .date { width: 25%; }
   div#content ol li { min-height: 130px; }
   li span.summary  { width: 100%;}
   li span.title a {
