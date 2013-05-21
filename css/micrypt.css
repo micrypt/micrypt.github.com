@@ -391,8 +391,8 @@ display: none;
 @media only screen and (max-width: 768px), only screen and (max-width: 480px) {
   div#footer div div { width: 95%; }
   div#content { width: 95%; }
-  li span.title  { width: 29%; }
-  li span.summary  { width: 55%; }
+  li span.title  { float: none; width: 100%;}
+  li span.summary  { float: none; width: 100%; padding: 0; margin-bottom: 10px;}
   .date { width: 14%; }
   div.default, div.post { width: 97%; }
   body.post .summary, body.post h1.branding { width: 97%; }
