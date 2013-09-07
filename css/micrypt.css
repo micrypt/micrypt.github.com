@@ -52,6 +52,19 @@ clear:both;
 div#content ol li.last {
 border:none;
 }
+div.more {
+padding: 25px 0 55px;
+font-size: 22px;
+font-weight: bold;
+}
+div.more a {
+color: #CFCFCF;
+text-decoration: none;
+}
+div.more a:hover {
+color:#800000;
+text-decoration:underline;
+}
 .branding .red-text {
 padding:0;
 color:#800000;
