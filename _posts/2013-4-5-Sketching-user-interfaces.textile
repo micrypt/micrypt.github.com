@@ -13,7 +13,7 @@ One might think to use one of those fancy online mockup tools, but I find they t
 
 Wondering how to sketch? Let's make this a concrete example. Just the other day, I had to come up with a solution to the problem of entering a time or date in the future, a range of some sort, into an application. Most people would just end up plopping down two calendar views, and screaming "job done!" at the top of their lungs. However, on some rare occasion, you might actually have a reason to do better than that. 
 
-So, we have a problem; a time range input. Let's get that licked in no time (yeah right)! 
+So, we have a problem; a time range input. Let's get that licked in no time.! Yeah right…
 
 h2. Tools
 
