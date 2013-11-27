@@ -2,7 +2,7 @@
 layout: post
 title: "The hard way"
 postdate: 2012-11-26 20:39:29
-summary: Partly a manifesto and partly a call for sanity.
+summary: Partly a manifesto, and partly a call for sanity.
 ---
 
 bq. Technology is the light that can cut through the darkness. When humanity conforms to a single truth, a truth based in technical progress and scientific method, we will be unstoppable. - Otto Octavius
