@@ -102,7 +102,7 @@ Seyi is a <a target="_blank"
     var g = d.createElement(t),
         s = d.getElementsByTagName(t)[0];
     g.async = true;
-    g.src = ('https:' == location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    g.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     s.parentNode.insertBefore(g, s);
    })(document, 'script');
   </script>
