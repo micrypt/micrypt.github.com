@@ -1,8 +1,12 @@
+html {
+    -webkit-font-smoothing: antialiased;
+}
+
 body { font:13px/1.231 sans-serif; *font-size:small; }
 body, select, input, textarea { 
 	color: #111; 
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	font-weight: 300; 
+	font-weight: 300;
 }
 
 h1,h2,h3,h4,h5,h6 { font-weight: bold; }
