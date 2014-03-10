@@ -1,5 +1,6 @@
 html {
     -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
 }
 
 body { font:13px/1.231 sans-serif; *font-size:small; }
