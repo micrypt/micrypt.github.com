@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: "Deploying Django apps to EC2 with Capistrano"
+tags: 
+- Python
+postdate: 2014-3-20 14:02:03
+summary: For when you don't get to decide whether or not to use Fabric
+---
+http://gunicorn-docs.readthedocs.org/en/latest/deploy.html
