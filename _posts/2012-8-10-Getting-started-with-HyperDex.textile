@@ -5,7 +5,7 @@ postdate: 2012-8-10 2:11:09
 summary: Super-charging your NoSQL with a datastore that cares about your data
 ---
 
-Alright, let's start this off with a fitting "soundtrack":http://youtu.be/6nBR30nIoAg just because we can. Open it up in a tab and come back? 
+Alright, let's start this off with a fitting "soundtrack":http://youtu.be/6nBR30nIoAg just because we can. Open it up in a tab and come back?
 
 h2. Greetings, valiant adventurer!
 
@@ -30,8 +30,8 @@ In the case you're as lazy as I tend to be and are still putting off reading the
 *# High Availability: the system will stay up in the presence of ≤ f failures.
 *# Partition-Tolerant: for partitions with ≤ f nodes, you can be certain your system is still operational. 
 *# Horizontally Scalable: you can grow your system by adding additional servers.
-*# Performant: high throughput and low variance.
-*# Searchable: it provides an expressive and performant API for searching your data.
+*# Performance: high throughput and low variance.
+*# Searchable: it provides an expressive high performance API for searching your data.
 
 So, that's a pretty impressive list, right? I bet you're wondering how it manages to support all those. I was. For details you'll have to actually read the paper[1], but it's a good idea to cover two pretty cool techniques involved: hyperspace hashing and value-dependent chaining. 
 
