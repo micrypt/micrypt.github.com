@@ -13,7 +13,7 @@ Disregard opinions in the design of software, and prefer that which can be prove
 
 However, there is another way. Each time you run into a challenge, you are presented with a chance, an opportunity to step back for a bit, and seek the right way. Some might consider this self-punishment, but there is a joy in doing things the correct way rather than just in the way that "works".
 
-Repeat this as your suburi (素振り) - a daily practice toward mastery. In doing so, minimise technical debt by doing things correctly from the onset.
+Repeat this as your suburi (素振り) — a daily practice toward mastery. In doing so, minimise technical debt by doing things correctly from the onset.
 
 "Opinionated software" is a harbinger of bullshit.
 
