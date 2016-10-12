@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: "The hard way"
+postdate: 2012-11-26 20:39:29
+summary: Partly a manifesto, and partly a call for sanity.
+---
+
+> Technology is the light that can cut through the darkness. When humanity conforms to a single truth, a truth based in technical progress and scientific method, we will be unstoppable. - Otto Octavius
+
+> There are very few things which we know, which are not capable of being reduc'd to a Mathematical Reasoning; and when they cannot it's a sign our knowledge of them is very small and confus'd; and when a Mathematical Reasoning can be had it's as great a folly to make use of any other, as to grope for a thing in the dark, when you have a Candle standing by you. — John Arbuthnot, Of the Laws of Chance, 1692.
+
+Disregard opinions in the design of software, and prefer that which can be proven. In the absence of proof, proceed with caution and carefully test your assumptions. There are some that would tell you to hack your way through obstacles and express disdain for the "academic" and science.
+
+However, there is another way. Each time you run into a challenge, you are presented with a chance, an opportunity to step back for a bit, and seek the right way. Some might consider this self-punishment, but there is a joy in doing things the correct way rather than just in the way that "works".
+
+Repeat this as your suburi (素振り) - a daily practice toward mastery. In doing so, minimise technical debt by doing things correctly from the onset.
+
+"Opinionated software" is a harbinger of bullshit.
+
+Note
+----
+
+Thanks to [Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/), for without his mentioning Arbuthnot, it might have taken much longer for me to come across his quote above.

@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: Twitter Developer Nest - February 2010
+tags: 
+- Programming
+postdate: 2010-02-04 20:43:08
+summary: Attended the February Twitter Developer Nest #devnest at Sun Microsystems. Saw some really cool apps and presentations.
+---
+
+![](/images/devnest.png)
+
+Attended the February Twitter Developer Nest \#devnest at Sun Microsystems. Saw some really cool apps and presentations. &lt;Updated long post coming up&gt;

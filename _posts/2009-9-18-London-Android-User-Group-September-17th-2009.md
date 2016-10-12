@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Londroid September 17th, 2009
+tags: 
+- Android
+- Programming
+postdate: 2009-09-18 05:50:07
+summary: Spent an evening with the London Android User Group at Skills Matter. Three talks/presentations in all covering; using the GPS to measure race car performance, OAuth and a MotoDev talk.
+---
+
+Spent an evening with the London Android User Group at Skills Matter. Three talks/presentations in all:
+
+USING ANDROID GPS TO MEASURE RACE CAR PERFORMANCE
+Paul Thomas talked about using GPS hardware on the G1 to turn the phone into a datalogger for lap times, G-forces and car positioning on the track. <sup></sup> I actually missed this talk while rushing through the London Underground to get to Skills Matter and finally getting stuck outside their HUGE office doors (if they intended for visitors to get the feeling of being outside a castle drawbridge... I think they nailed it!). I did finally get in though.
+
+OAUTH AND THE INTENT ECOSYSTEM
+Carl-Gustaf Harroch from novoda presented his OAuth provider and explained its integration to the platform. He had a rather interesting presentation - demonstrating using the provider as a central management system for different OAuth implementations. Might this be the future of web application authentication on the Android platform?
+
+<http://github.com/novoda>
+
+MOTODEV, BEGIN YOUR ANDROID DEVELOPMENT WITH MOTOROLA
+Karan Geddam from Motorola presented an Eclipse based development platform created by Motorola - MOTODEV. It aims to facilitate the creation and deployment of Android application. From the development process to the deployment on the market. All contained within a single IDE. It seems like pretty handy toolkit, I'd expect some level of widespread adoption simply due to the fact it simplifies many tasks related to Android development and eases the development process.
+
+<http://developer.motorola.com>
+
+Had a great evening overall. It's cool to hang out in a room filled with bright people building interesting things. :P
