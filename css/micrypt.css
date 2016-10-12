@@ -134,7 +134,7 @@ padding:5px;
 width:580px;
 }
 span.summary {
-font-size:16px;
+font-size:18px;
 display:block;
 float:left;
 width:500px;
@@ -295,7 +295,7 @@ text-shadow: rgba(255, 255, 255, .8) 0 1px 0;
 line-height: 30px;
 color: #444;
 margin:0 0 20px;
-font-size: 1.2em;
+font-size: 1.35em;
 line-height: 1.9em;
 }
 div.post li {
@@ -364,7 +364,7 @@ margin: 32px auto 56px;
 }
 body.post .summary {
 font-family: Georgia, serif;
-font-size: 17px;
+font-size: 19px;
 font-style: italic;
 margin: 35px auto;
 color: rgb(109, 109, 109);
