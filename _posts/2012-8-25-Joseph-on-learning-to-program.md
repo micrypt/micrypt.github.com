@@ -10,7 +10,7 @@ summary: Guest article - Documenting a journey into learning to program
 Seyi
 ----
 
-I often get asked how I initially learned programming… to which the answer is sadly that I'm not completely certain. Although I've always been fascinated with making things, I'm uncertain when it finally clicked that computers could be used for things other than playing Prince of Persia. It'd be nice if I had documented my efforts to learn, but I didn't. Sorry, world… I failed you. However, my deplorable memory need not be an impedance, as long as others document how they learn. Consequently, I've badgered a rather bright friend of mine, [Joseph](http://twitter.com/josephbensona) (a designer) into making a diary of how he's learning to program. What follows are his thoughts:
+I often get asked how I initially learned programming… to which the answer is sadly that I'm not completely certain. Although I've always been fascinated with making things, I'm uncertain when it finally clicked that computers could be used for things other than playing Prince of Persia. It'd be nice if I had documented my efforts to learn, but I didn't. Sorry, world… I failed you. However, my deplorable memory need not be an impedance, as long as others document how they learn. Consequently, I've badgered a rather bright friend of mine, [Joseph](http://twitter.com/j0sephbens0n) (a designer) into making a diary of how he's learning to program. What follows are his thoughts:
 
 Joseph
 ------
