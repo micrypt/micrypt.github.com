@@ -256,23 +256,26 @@ padding: 10px 15px;
 text-indent: -9999px;
 width: 20px;
 }
-#footer div div div#links ul li a#twitter {
-background:url("/images/site/icons.svg") no-repeat scroll 10px 10px transparent
+#footer div div div#links ul li a#mastodon {
+background:url("/images/site/icons.svg") no-repeat scroll 10px 10px transparent;
+background-size: 140px;
 }
 #footer div div div#links ul li a#flickr {
-background:url("/images/site/icons.svg") no-repeat scroll -45px 10px transparent
+background:url("/images/site/icons.svg") no-repeat scroll -45px 10px transparent;
+background-size: 140px;
 }
 #footer div div div#links ul li a#tumblr {
-background:url("/images/site/icons.svg") no-repeat scroll -95px 10px transparent
+background:url("/images/site/icons.svg") no-repeat scroll -95px 10px transparent;
+background-size: 140px;
 }
-#footer div div div#links ul li a#twitter:hover {
-background:url("/images/site/icons.svg") no-repeat scroll 10px -20px transparent
+#footer div div div#links ul li a#mastodon:hover {
+opacity: .8;
 }
 #footer div div div#links ul li a#flickr:hover {
-background:url("/images/site/icons.svg") no-repeat scroll -45px -20px transparent
+opacity: .8;
 }
 #footer div div div#links ul li a#tumblr:hover {
-background:url("/images/site/icons.svg") no-repeat scroll -95px -20px transparent
+opacity: .8;
 }
 #footer div div div#titles {
 clear: both;
